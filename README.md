@@ -1,1 +1,1 @@
-# Statis_assignment
+# Statistics assignments
